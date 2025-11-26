@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o **Whispering Code** — também conhecido como Luiz Pedro!
+# 👋 Olá, eu sou o **Luiz Pedro** !
 
 💡 Desenvolvedor Fullstack apaixonado por decifrar o universo da tecnologia,  
 🔐 entusiasta de cibersegurança e criador de soluções que falam por si.  
